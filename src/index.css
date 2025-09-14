@@ -1,0 +1,66 @@
+/* These three lines are the standard Tailwind CSS directives.
+  They must be at the top of this file.
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- MOBILE CURSOR FIX ---
+  This CSS is a crucial fallback. 
+  
+  Your App.jsx has a `cursor-none` class to hide the default mouse cursor on desktops.
+  This media query targets devices with touch screens (where `pointer` is `coarse`)
+  and restores the default system cursor (`cursor: auto`), so you don't end up with
+  no cursor at all on mobile.
+*/
+@media (pointer: coarse) {
+  .cursor-none {
+    cursor: auto;
+  }
+}
+
+.bg-blue-500 {
+  background-color:#849926 !important;
+}
+.bg-blue-600 {
+  background-color:#849926 !important;
+}
+.bg-blue-700 {
+  background-color:#6D801F !important;
+}
+.bg-blue-800 {
+  background-color:#6D801F !important;
+}
+.bg-blue-900 {
+  background-color:#6D801F !important;
+}
+
+.text-blue-500 {
+  color:#849926 !important;
+}
+.text-blue-600 {
+  color:#849926 !important;
+}
+.text-blue-700 {
+  color:#6D801F !important;
+}
+.text-blue-800 {
+  color:#6D801F !important;
+}
+.text-blue-900 {
+  color:#6D801F !important;
+}
+
+
+.border-blue-500{
+  border-color:#849926 !important;
+}
+.border-blue-600{
+  border-color:#849926 !important;
+}
+.border-blue-700{
+  border-color:#6D801F !important;
+}
+.border-blue-800{
+  border-color:#6D801F !important;
+}
