@@ -1,11 +1,7 @@
 
 # 🛍️ Layers - A Modern E-Commerce Experience
 
-✨ **Submission for the Sheryians Coding School Hackathon (Phase 1)** ✨
-
-**Layers** is a modern, dynamic, and fully responsive e-commerce concept website built for an Indian startup brand. Inspired by the creative energy of **Tech Burner**, this project merges aesthetic appeal with seamless functionality, delivering an immersive user experience with smo
-
-oth animations, component-based structure, and full responsiveness.
+**Layers** is a modern, dynamic, and fully responsive e-commerce concept website built for an Indian startup brand. Inspired by the creative energy of **Tech Burner**, this project merges aesthetic appeal with seamless functionality, delivering an immersive user experience with smooth animations, component-based structure, and full responsiveness.
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
@@ -17,7 +13,7 @@ oth animations, component-based structure, and full responsiveness.
 
 ## 🔗 Live & Demo Links
 
-- 🚀 **Live Website**: [layers-Reimagined](https://layers-reimagined-hackathon-sheryians.netlify.app/)  
+- 🚀 **Live Website**: [layers-Reimagined](https://anarc-watch-kappa.vercel.app/)  
 
 
 ---
@@ -25,7 +21,7 @@ oth animations, component-based structure, and full responsiveness.
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="https://github.com/Ravishetty07/Layers-Reimagined-Hackaton-Sheryians/blob/main/public/preview.png" alt="Project Preview" width="100%"/>
+  <img src="https://github.com/darksitecoder/anarc-watch/blob/master/public/preview.png" alt="Project Preview" width="100%"/>
 </p>
 
 
@@ -76,7 +72,7 @@ oth animations, component-based structure, and full responsiveness.
 
 ## ✅ Hackathon Checklist
 
-- [x] ✅ Brand Website Concept: *"Layers" for an Indian Startup*
+- [x] ✅ Brand Website Concept: *"ANARC" for an Indian Startup*
 - [x] ✅ 5 Mandatory Pages Built
 - [x] ✅ Fully Responsive UI
 - [x] ✅ React + Tailwind + Framer Motion
@@ -89,7 +85,7 @@ oth animations, component-based structure, and full responsiveness.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ravishetty07/layers-reimagined.git
+git clone https://github.com/darksitecoder/anarc-watch.git
 
 # Navigate into the project directory
 cd layers-reimagined
@@ -107,20 +103,12 @@ npm run dev
 
 ## 🧑‍💻 Author
 
-### 👋 Hi, I'm Ravi Shetty
+### 👋 Hi, I'm Sumit Pal
 
-Frontend Developer | Creative Coder | UI Enthusiast
+Frontend Developer | Project Manager | UI Enthusiast
 
-* 🌐 **Portfolio**: [ravishetty-portfolio.netlify.app](https://ravishetty-portfolio.netlify.app)
-* 💻 **GitHub**: [github.com/Ravishetty07](https://github.com/Ravishetty07)
-* 💼 **LinkedIn**: [linkedin.com/in/ravi-m-shetty](https://www.linkedin.com/in/ravi-m-shetty/)
-
----
-
-## 🙏 Acknowledgements
-
-> 💖 A huge **thank you to [Sheryians Coding School](https://sheryians.com/)** for organizing this hackathon and giving learners like me the platform to grow, build, and showcase our skills. This project helped me push boundaries in design, frontend development, and performance optimization. It was a truly enriching experience.
+* 🌐 **Portfolio**: [darksitecoder.netlify.app](https://darksitecoder.netlify.app/)
+* 💻 **GitHub**: [github.com/darksitecoder](https://github.com/darksitecoder)
+* 💼 **LinkedIn**: [linkedin.com/in/sumit-pal-darksitecoder](https://www.linkedin.com/in/sumit-pal-darksitecoder/)
 
 ---
-
-> ⚡ *Built with passion, React, and Tailwind by Ravi Shetty – Hackathon 2025*
